@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "Josh Mens",
-            "email": "josh.mens@hotmail.com"
+            "email": "3606381+joshmens@users.noreply.github.com"
         }
     ],
     "keywords": [
@@ -16,6 +16,7 @@
     ],
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
+    "abandoned": true,
     "require": {
         "dnadesign/silverstripe-elemental": "^4.0",
         "dynamic/silverstripe-elemental-blocks": "^3.0",

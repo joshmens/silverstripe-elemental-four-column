@@ -1,3 +1,3 @@
 # Contributing
 
-Contributions are welcome! Create an issue, explaining a bug or proposed improvement. Please submit pull requests.
+This repository is no longer supported or maintained. As such, contributions, pull requests, and issues are no longer accepted or monitored.

@@ -1,5 +1,10 @@
 # Silverstripe Elemental Four Column
 
+> [!WARNING]
+> **Repository No Longer Supported**
+>
+> This repository is no longer supported or maintained. It will not receive any updates, and issues/pull requests are no longer monitored.
+
 Extends the [SilverStripe Elemental Blocks](https://github.com/dynamic/silverstripe-elemental-blocks) module to add a block that create a Bootstrap four column layout in your page. This can already be achieved using [SilverStripe Elemental List](https://github.com/dnadesign/silverstripe-elemental-list), however this module provides a slightly friendlier approach for non-technical users (e.g. those who are unfamiliar with Bootstrap's CSS classes).
 
 ## Requirements
